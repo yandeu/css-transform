@@ -1,0 +1,11 @@
+:root {
+  --color-primary: green;
+}
+
+section {
+  & h1 {
+    & span {
+      color: var(--color-primary);
+    }
+  }
+}
