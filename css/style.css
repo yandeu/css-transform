@@ -1,6 +1,4 @@
-:root {
-  --color-primary: green;
-}
+@import 'colors.css';
 
 section {
   & h1 {
